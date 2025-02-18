@@ -4,8 +4,8 @@
 
 ## 当前进度：
 
-LeetCode题单：第70题
-https://leetcode.cn/studyplan/top-interview-150/
+LeetCode题单hot100：第70题
+LeetCode题单面试150：第49题
 
 
 
@@ -19,10 +19,5 @@ https://leetcode.cn/studyplan/top-interview-150/
 ## 路径：
 
 因为我的typora没有做图床(悲)。
-图片路径比较随便，就放在：
-
-```powershell
-D:\JAVA学习日志\typora\面试算法\所用截图
-```
 
 PS:路径带中文会有点问题，但是这个属于历史遗留问题(刚学的时候都放这了，后面也懒得改了)
