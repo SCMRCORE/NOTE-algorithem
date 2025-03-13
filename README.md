@@ -6,9 +6,9 @@
 
 ## 当前进度：
 
-LeetCode题单hot100：第70题
+LeetCode题单hot100：76题
 
-LeetCode题单面试150：第49题
+LeetCode题单面试150：49题
 
 LeetCode：简单:37	中等:71	困难:9
 
