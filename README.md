@@ -6,7 +6,7 @@
 
 ## 当前进度：
 
-LeetCode题单hot100：78题
+LeetCode题单hot100：80题
 
 LeetCode题单面试150：49题
 
