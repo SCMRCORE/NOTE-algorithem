@@ -8,7 +8,7 @@
 
 LeetCode题单hot100：89题
 
-LeetCode题单面试150：126题
+LeetCode题单面试150：127题
 
 LeetCode：简单:51	中等:100	困难:10
 
